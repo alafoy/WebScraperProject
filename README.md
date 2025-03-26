@@ -1,6 +1,11 @@
-                              Upload the code for your Cryptography Project
-You should have 2 New Files created
-  1 with the code for the encryption and decryption of your researched cipher
-  1 with the code for the encryption and decryption of your self created cipher
+Keep track of this ReadME file as you go.
 
-Refer to the Canvas page for project instructions and rubric.
+/* Insert Project Name */
+2025 CLHS Cybersecurity
+/* Student Names */
+
+Description
+/* Project Description Here */
+
+Use
+/* Directions for how to use your project and any command line dependencies and arguments */
